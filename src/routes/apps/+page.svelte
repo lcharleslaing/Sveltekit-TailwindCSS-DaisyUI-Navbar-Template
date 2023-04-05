@@ -10,16 +10,16 @@
     class="flex flex-col md:flex-row items-center justify-center mt-6 space-y-4 md:space-y-0 md:space-x-4"
 >
     <Card
-        href="/apps/gpt4all-ui"
-        iconName="computer-chat"
-        title="Gpt4All Chat"
-        description="Open Source version of GPT-4 with a Web interface"
+        href="#"
+        iconName="youtube"
+        title="Sample 1"
+        description="Sample 1 Description"
     />
     <Card
-        href="/apps/fof"
-        iconName="legal"
-        title="Friend of the Families"
-        description="Helping One Family at a Time with a variety of resouces"
+        href="#"
+        iconName="facebook"
+        title="Sample 2"
+        description="Sample 2 Description"
     />
     <!-- Add more Card components here -->
 </div>
